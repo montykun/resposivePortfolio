@@ -1,1 +1,14 @@
 
+a{
+    font-family: 'Indie Flower', cursive;
+}
+
+h5, h2 {
+    font-family: 'Sriracha', cursive;
+}
+
+p, label {
+    font-family: 'Shadows Into Light', cursive;
+    letter-spacing: 3px;
+}
+
