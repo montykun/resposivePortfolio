@@ -6,3 +6,8 @@
 * Bootstrap
 * CSS Styling
 * Imported font styles
+
+![alt text](./pics/portImg1.png)
+![alt text](./pics/portImg1.png)
+![alt text](./pics/portImg1.png)
+![alt text](./pics/portImg1.png)
