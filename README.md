@@ -7,7 +7,7 @@
 * CSS Styling
 * Imported font styles
 
-![alt text](./pics/portImg1.png)
-![alt text](./pics/portImg1.png)
-![alt text](./pics/portImg1.png)
-![alt text](./pics/portImg1.png)
+![alt text](./pics/nav.png)
+![alt text](./pics/about.png)
+![alt text](./pics/portfolio.png)
+![alt text](./pics/contact.png)
